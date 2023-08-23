@@ -16,9 +16,9 @@ All sources of income and expenses of the company are reflected in the "5.INCOME
 
 In the "1.INCOME-EXPENSE" tab, all accounting entries for the period 01/01/2023-31/12/2023 are displayed. The entries include the VAT, although its significance was not included in the current analysis.
 
-With a net result indicating profit, a costing process was carried out to identify the most profitable activity of the company. In the "2.COSTING" tab, a breakdown of the company's expenses was performed. Using the COUNTIF function, expenses were calculated by category and then distributed to income sources. Fixed and variable costs were calculated for each company activity and compared with the corresponding revenue they generated.
+With a net result indicating profit, a costing process was carried out to identify the most profitable activity of the company. In the "2.COSTING" tab, a breakdown of the company's expenses was performed. Using the SUMIF function, expenses were calculated by category and then distributed to income sources. Fixed and variable costs were calculated for each company activity and compared with the corresponding revenue they generated.
 
-Using COUNTIF, revenues were calculated per activity of the company, as shown in the "3.NET RESULTS BY CATEGORY" tab. Costing revealed that certain company activities were causing money losses. The results are now shown per activity after expense distribution (tab 3).
+Using SUMIF, revenues were calculated per activity of the company, as shown in the "3.NET RESULTS BY CATEGORY" tab. Costing revealed that certain company activities were causing money losses. The results are now shown per activity after expense distribution (tab 3).
 
 Variable costs were in each case lower than the selling price; therefore, the Break-Even Point was calculated for all activities, again in the "2.COSTING" tab. The Break-Even Point was calculated, revealing deviations for each product/service of the company.
 
