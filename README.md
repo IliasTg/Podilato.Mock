@@ -1,6 +1,7 @@
 # Podilato.Mock
 
 ENTRY LEVEL FINANCIAL ANALYSIS
+
 Income/expenses, Profitability & Break-Even Point of fictitious Data for educational/tool-practise purposes
 
 The study concerns the financial data of the company PODILATO.EN. The data is fictional and was created solely for training and practice purposes of certain tools, such as Excel, SQL, Python, PowerBI, and Tableau. It does not reflect real business data. The analysis was conducted in the MS Excel environment, and its graphical representation was completed using PowerBI. The entire analysis consists of this file (read.me), the Excel file (PODILATO.EN), the PowerBI file (PODILATO.EN), and the PDF (PODILATO.EN).
